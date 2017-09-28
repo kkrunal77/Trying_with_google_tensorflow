@@ -55,7 +55,7 @@ NUM_CLASSES = 90
 # ## Download Model
 
 # In[5]:
-
+# Need only first time
 # opener = urllib.request.URLopener()
 # opener.retrieve(DOWNLOAD_BASE + MODEL_FILE, MODEL_FILE)
 # tar_file = tarfile.open(MODEL_FILE)
